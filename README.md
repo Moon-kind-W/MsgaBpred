@@ -1,2 +1,2 @@
 # MsgaBpred
-The data and standalone program of ESM-DBP
+The data and standalone program of MsgaBpred
