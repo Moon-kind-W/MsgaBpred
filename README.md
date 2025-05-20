@@ -10,3 +10,6 @@ The data and standalone program of MsgaBpred
 *  2.``python esmc.py``
 <br>Then enter the API key of ESM-C.
 *  3.``python dataset.py --gpu 0``
+# Run MsgaBpred for training
+After building our dataset epitope3D, train the model with default hyper params:
+* ``python train.py``
