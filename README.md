@@ -8,5 +8,5 @@ The data and standalone program of MsgaBpred
 # Build dataset
 *  1.``git clone https://github.com/Moon-kind-W/MsgaBpred.git && cd MsgaBpred``
 *  2.``python esmc.py``
-*  Then enter your API key
+Then enter your API key of ESMC
 *  3.``python dataset.py --gpu 0``
