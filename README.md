@@ -13,3 +13,7 @@ The data and standalone program of MsgaBpred
 # Run MsgaBpred for training
 After building our dataset epitope3D, train the model with default hyper params:
 * ``python train.py``
+# Run MsgaBpred for prediction
+Please execute the following command directly if you can provide the PDB file.
+If you do not have a PDB file, you can use AlphaFold3 to predict the protein structure.
+* ``python test.py``
