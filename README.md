@@ -6,5 +6,5 @@ The data and standalone program of MsgaBpred
 # Software
 * To run the full & accurate version of MsgaBpred, you need to make sure the following software is in the mkdssp directory:<br> [DSSP](https://github.com/cmbi/dssp)
 # Build dataset
-*  1."git clone https://github.com/Moon-kind-W/MsgaBpred.git && cd MsgaBpred"
+*  1.``git clone https://github.com/Moon-kind-W/MsgaBpred.git && cd MsgaBpred``
 *  2.python dataset.py --gpu 0
